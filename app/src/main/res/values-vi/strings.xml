@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quản lý Sinh viên</string>
+    <string name="student_list_title">Danh sách sinh viên</string>
+    <string name="student_details">Thông tin sinh viên</string>
+    <string name="add_student">Thêm sinh viên</string>
+    <string name="edit_student">Sửa thông tin sinh viên</string>
+    <string name="full_name">Họ tên SV</string>
+    <string name="student_number">Mã số SV</string>
+    <string name="email">Email</string>
+    <string name="student_avatar">Ảnh đại diện sinh viên</string>
+    <string name="avatar_url">Đường dẫn ảnh đại diện</string>
+    <string name="choose_photo">Chọn ảnh</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="back">Quay lại</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="empty_students">Chưa có sinh viên. Hãy thêm sinh viên đầu tiên.</string>
+    <string name="confirm_update">Bạn có muốn sửa thông tin SV không?</string>
+    <string name="confirm_delete">Bạn có muốn xóa thông tin SV không?</string>
+    <string name="validation_error">Vui lòng nhập họ tên, mã số SV và địa chỉ email hợp lệ.</string>
+    <string name="avatar_load_error">Không thể tải ảnh đã chọn: %1$s</string>
+</resources>
